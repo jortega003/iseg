@@ -1,0 +1,16 @@
+PID = PID022
+Condition = context
+Date = 2022-10-20_14h21.59.956
+
+Trial	Video	Condition	Inactivity Duration
+1	019	context	3.1
+2	007	context	11.08
+3	013	context	6.73
+4	009	context	8.48
+5	017	context	5.33
+6	021	context	7.92
+7	015	context	3.75
+8	011	context	6.83
+9	005	context	4.23
+10	003	context	2.75
+11	023	context	6.12
