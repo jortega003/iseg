@@ -1,0 +1,16 @@
+PID = PID069
+Condition = ground
+Date = 2023-03-06_15h25.35.117
+
+Trial	Video	Condition	Inactivity Duration
+1	002	ground	4.47
+2	004	ground	1.8
+3	010	ground	10.8
+4	020	ground	3.93
+5	016	ground	7.35
+6	014	ground	6.7
+7	022	ground	2.9
+8	008	ground	10.63
+9	018	ground	4.35
+10	006	ground	5.11
+11	012	ground	3.0
