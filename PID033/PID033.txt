@@ -1,0 +1,7 @@
+PID = PID033
+Condition = ground
+Date = 2022-10-27_14h54.27.371
+
+Trial	Video	Condition	Inactivity Duration
+1	002	ground	4.99
+2	022	ground	8.36

@@ -1,0 +1,16 @@
+PID = PID031
+Condition = ground
+Date = 2022-10-27_12h56.31.475
+
+Trial	Video	Condition	Inactivity Duration
+1	014	ground	3.6
+2	008	ground	5.01
+3	022	ground	6.21
+4	020	ground	2.1
+5	002	ground	7.03
+6	016	ground	4.4
+7	018	ground	11.21
+8	004	ground	3.42
+9	010	ground	12.03
+10	012	ground	8.73
+11	006	ground	7.85

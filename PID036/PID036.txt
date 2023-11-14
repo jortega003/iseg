@@ -1,0 +1,16 @@
+PID = PID036
+Condition = context
+Date = 2023-02-02_10h40.21.112
+
+Trial	Video	Condition	Inactivity Duration
+1	009	context	5.27
+2	005	context	3.6
+3	007	context	2.62
+4	015	context	2.82
+5	003	context	3.5
+6	017	context	2.33
+7	013	context	7.03
+8	023	context	4.26
+9	021	context	7.74
+10	011	context	11.48
+11	019	context	3.6
